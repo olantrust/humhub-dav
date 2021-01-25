@@ -6,7 +6,7 @@ It will enable syncing to external devices and apps:
 
 *Best used with #humhub-contacts*
 
-*Donations welcome to support our development https://olan.uk/*
+*Donations welcome to support our development https://olan.uk/donate*
 
 
 **Roadmap**
